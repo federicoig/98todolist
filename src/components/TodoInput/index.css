@@ -1,0 +1,17 @@
+.field-row {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+button { 
+    cursor: pointer;
+}
+
+input#text17 {
+    width: 50%;
+}
+
+label#text17 {
+    font-size: 115%;
+}
