@@ -1,14 +1,23 @@
+* {
+    font-size: 110%;
+}
+
 .field-row {
     display: flex;
     justify-content: center;
+    flex-direction: column;
     width: 100%;
 }
 
-button { 
+button {
+    font-size: 100%;
+    margin: 1% 0 1% 0;
     cursor: pointer;
 }
 
 input#text17 {
+    margin-top: 1%;
+    font-size: 110%;
     width: 50%;
 }
 

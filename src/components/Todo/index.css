@@ -2,6 +2,20 @@
     margin-top: 1%;
 }
 
+.completed-todo {
+    transition: all 0.3s ease;
+    background-color: #00807F;
+}
+
+.completed-todo > .content > p {
+    text-decoration: line-through;
+}
+
+.hidden {
+    display: none;
+}
+
+
 .content {
     display: flex;
     align-items: center;
@@ -9,6 +23,7 @@
 }
 
 p {
+    padding-right: 2%;
     font-size: 130%;
 }
 

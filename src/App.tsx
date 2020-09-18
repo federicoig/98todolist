@@ -1,15 +1,14 @@
 import React from 'react';
 import { WindowLayout } from "./components/WindowLayout/index";
-import { TodoInput } from "./components/TodoInput/index"
-import "./app.css";
+import { TodoWrapper } from "./components/TodoWrapper/index"
+import "./App.css";
 import "98.css";
-import { Todo } from './components/Todo';
 
 function App() {
   return (
     <div className="App">
         <WindowLayout>
-            <TodoInput />
+            <TodoWrapper />
         </WindowLayout>
     </div>
   );
