@@ -24,9 +24,9 @@
 
 p {
     padding-right: 2%;
-    font-size: 130%;
+    font-size: 135%;
 }
 
-@media (max-width: 500px) {
-    .todo { margin-top: 5%}
+@media (max-width: 750px) {
+    .todo { margin-top: 4%}
 }

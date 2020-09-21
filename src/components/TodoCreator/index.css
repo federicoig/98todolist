@@ -24,3 +24,7 @@ input#text17 {
 label#text17 {
     font-size: 115%;
 }
+
+.todo-wrapper {
+    width: 75%;
+}

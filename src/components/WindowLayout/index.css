@@ -2,8 +2,19 @@
     padding-bottom: 50%;
 }
 
-@media (max-width: 500px){
+.icon {
+    margin-right: 5%;
+    width: 20px;
+    height: 20px;
+}
+
+.title-bar-text {
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width: 750px){
     .wrapper {
-        padding-bottom: 150%;
+        padding-bottom: 110%;
     }
 }
