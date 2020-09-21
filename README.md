@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## DEMO
+
+Open [https://federicoig.github.io/98todolist/](98todolist DEMO) to visualize live demo.
+
 ## Available Scripts
 
 In the project directory, you can run:
