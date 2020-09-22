@@ -7,7 +7,7 @@ export const Router: React.FC = (props) => {
     return (
         <BrowserRouter>
             <Switch>
-                <Route name="home" exact path="/" component={Home}/>
+                <Route name="home" exact path="/home" component={Home}/>
                 <Route name="todos" exact path="/todos" component={TodoList}/>
             </Switch>
         </BrowserRouter>
