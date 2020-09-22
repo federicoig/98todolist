@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/98todolist/home/static/css/main.bd9e0441.chunk.css",
-    "main.js": "/98todolist/home/static/js/main.4419d1b4.chunk.js",
-    "main.js.map": "/98todolist/home/static/js/main.4419d1b4.chunk.js.map",
+    "main.css": "/98todolist/home/static/css/main.37f94e13.chunk.css",
+    "main.js": "/98todolist/home/static/js/main.a0719192.chunk.js",
+    "main.js.map": "/98todolist/home/static/js/main.a0719192.chunk.js.map",
     "runtime-main.js": "/98todolist/home/static/js/runtime-main.b5841590.js",
     "runtime-main.js.map": "/98todolist/home/static/js/runtime-main.b5841590.js.map",
     "static/css/2.787e52e1.chunk.css": "/98todolist/home/static/css/2.787e52e1.chunk.css",
-    "static/js/2.cee76400.chunk.js": "/98todolist/home/static/js/2.cee76400.chunk.js",
-    "static/js/2.cee76400.chunk.js.map": "/98todolist/home/static/js/2.cee76400.chunk.js.map",
+    "static/js/2.60c20745.chunk.js": "/98todolist/home/static/js/2.60c20745.chunk.js",
+    "static/js/2.60c20745.chunk.js.map": "/98todolist/home/static/js/2.60c20745.chunk.js.map",
     "index.html": "/98todolist/home/index.html",
-    "precache-manifest.9acef6f5785573ed0f4da0da5c32d064.js": "/98todolist/home/precache-manifest.9acef6f5785573ed0f4da0da5c32d064.js",
+    "precache-manifest.05fa0acaf810e6eb3c10153a45628787.js": "/98todolist/home/precache-manifest.05fa0acaf810e6eb3c10153a45628787.js",
     "service-worker.js": "/98todolist/home/service-worker.js",
     "static/css/2.787e52e1.chunk.css.map": "/98todolist/home/static/css/2.787e52e1.chunk.css.map",
-    "static/css/main.bd9e0441.chunk.css.map": "/98todolist/home/static/css/main.bd9e0441.chunk.css.map",
-    "static/js/2.cee76400.chunk.js.LICENSE.txt": "/98todolist/home/static/js/2.cee76400.chunk.js.LICENSE.txt",
+    "static/css/main.37f94e13.chunk.css.map": "/98todolist/home/static/css/main.37f94e13.chunk.css.map",
+    "static/js/2.60c20745.chunk.js.LICENSE.txt": "/98todolist/home/static/js/2.60c20745.chunk.js.LICENSE.txt",
     "static/media/98.css": "/98todolist/home/static/media/ms_sans_serif_bold.cb1c7473.woff2",
     "static/media/windows98.gif": "/98todolist/home/static/media/windows98.72ab48f5.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.b5841590.js",
     "static/css/2.787e52e1.chunk.css",
-    "static/js/2.cee76400.chunk.js",
-    "static/css/main.bd9e0441.chunk.css",
-    "static/js/main.4419d1b4.chunk.js"
+    "static/js/2.60c20745.chunk.js",
+    "static/css/main.37f94e13.chunk.css",
+    "static/js/main.a0719192.chunk.js"
   ]
 }
