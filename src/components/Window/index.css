@@ -1,5 +1,5 @@
-.wrapper {
-    padding-bottom: 50%;
+.window {
+    padding-bottom: 40%;
 }
 
 .icon {
@@ -15,6 +15,6 @@
 
 @media (max-width: 750px){
     .wrapper {
-        padding-bottom: 110%;
+        padding-bottom: 95%;
     }
 }

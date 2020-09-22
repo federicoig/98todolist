@@ -2,8 +2,9 @@ import React from "react";
 import "98.css";
 import "./index.css";
 import computer from "./computer-4.png";
+import { Button } from "../ButtonLink/index"
 
-export const WindowLayout: React.FC = (props) => {
+export const Window: React.FC = (props) => {
     return (
         <div className="window wrapper">
             <div className="title-bar">
@@ -12,9 +13,7 @@ export const WindowLayout: React.FC = (props) => {
                     98todolist
                 </div>
                 <div className="title-bar-controls">
-                    <button aria-label="Minimize"></button>
-                    <button aria-label="Maximize"></button>
-                    <button aria-label="Close"></button>
+                    <Button label="Close" href={"/home"}/>
                 </div>
             </div>
             <div className="window-body">

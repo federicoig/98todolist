@@ -20,7 +20,7 @@ export const TodoCreator: React.FC = (props) => {
                 setInput("");
             }
             e.preventDefault(); }} className="field-row">
-            <label id="text17">What are your plans for today...?</label>
+            <label id="text17">What are your plans for today...? <br />*don't write sensitive data*</label>
             <input id="text17" 
                 autoComplete="off"
                 type="text"

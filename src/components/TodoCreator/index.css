@@ -1,7 +1,3 @@
-* {
-    font-size: 110%;
-}
-
 .field-row {
     display: flex;
     justify-content: center;
@@ -9,22 +5,41 @@
     width: 100%;
 }
 
+.todo-content {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.book-icon {
+    margin-right: 1%;
+}
+
 button {
-    font-size: 100%;
+    font-size: 135%;
     margin: 1% 0 1% 0;
     cursor: pointer;
 }
 
 input#text17 {
-    margin-top: 1%;
-    font-size: 110%;
+    margin-top: 0.5%;
+    font-size: 150%;
+    padding: 0.8%;
     width: 50%;
 }
 
 label#text17 {
-    font-size: 115%;
+    text-align: center;
+    letter-spacing: 1.5px;
+    font-size: 165%;
 }
 
 .todo-wrapper {
     width: 75%;
+}
+
+@media screen and (min-width: 400px) and (max-width: 900px) {
+    .book-icon {
+        margin-right: 5%;
+    }
 }

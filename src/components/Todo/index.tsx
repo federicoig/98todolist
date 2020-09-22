@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import store from "store";
+import book from "./book.png"
 import "98.css";
 import "./index.css"
 
@@ -26,7 +27,10 @@ export const Todo: React.FC<ITodo> = (props) => {
                 </div>
             </div>
             <div className="window-body content">
-                <p>{props.activity}</p>
+                <p className="todo-content">
+                    <img className="book-icon" alt="book icon" src={book}/>
+                    {props.activity}
+                </p>
                 <button onClick={ (e) => { 
                     setCompleted("completed-todo");
                     store.remove(props.index);

@@ -15,7 +15,6 @@
     display: none;
 }
 
-
 .content {
     display: flex;
     align-items: center;
@@ -24,7 +23,7 @@
 
 p {
     padding-right: 2%;
-    font-size: 135%;
+    font-size: 150%;
 }
 
 @media (max-width: 750px) {
