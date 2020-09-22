@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## DEMO
 
-Open [https://federicoig.github.io/98todolist/](98todolist DEMO) to visualize live demo.
+Open [98todolist DEMO](https://federicoig.github.io/98todolist/) to visualize live demo.
 
 ## Available Scripts
 
