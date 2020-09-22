@@ -2,7 +2,7 @@
   "name": "98todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://federicoig.github.io/98todolist/",
+  "homepage": "https://federicoig.github.io/98todolist/home",
   "dependencies": {
     "98.css": "^0.1.16",
     "@testing-library/jest-dom": "^4.2.4",

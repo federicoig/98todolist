@@ -13,7 +13,7 @@ export const Window: React.FC = (props) => {
                     98todolist
                 </div>
                 <div className="title-bar-controls">
-                    <Button label="Close" href={"/home"}/>
+                    <Button label="Close" href={"/"}/>
                 </div>
             </div>
             <div className="window-body">
