@@ -23,9 +23,14 @@
 
 p {
     padding-right: 2%;
-    font-size: 150%;
+    font-size: 160%;
 }
 
 @media (max-width: 750px) {
+    p { font-size: 150% } 
     .todo { margin-top: 4%}
+}
+
+@media (max-width: 400px) {
+    p { font-size: 145% }
 }

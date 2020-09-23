@@ -38,7 +38,7 @@ label#text17 {
     width: 75%;
 }
 
-@media screen and (min-width: 400px) and (max-width: 900px) {
+@media screen and (min-width: 300px) and (max-width: 900px) {
     .book-icon {
         margin-right: 5%;
     }
