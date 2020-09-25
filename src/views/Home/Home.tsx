@@ -1,6 +1,6 @@
 import React from "react";
 import { AppLayout } from "../../layouts";
-import windows98 from "./windows98.gif"
+import windows98 from "./windows98.mp4"
 import "./index.css"
 
 export const Home: React.FC = (props) => {
@@ -14,7 +14,7 @@ export const Home: React.FC = (props) => {
                     <br />delete it or you finish it!
                 </p>
                 <button onClick={(e) => {window.location.hash="/todos"}} className="enter-button">Enter</button>
-                <img className="pipes-gif" alt="windows 98 design" src={windows98} />
+                <video autoPlay loop muted playsInline className="pipes-gif" src={windows98} />
             </div>
         </AppLayout>
     )
