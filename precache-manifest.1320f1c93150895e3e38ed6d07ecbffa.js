@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08605953b9beb4d7b2b3b628aa67eaae",
+    "revision": "60a3dceeb4705b345b0410b68792033c",
     "url": "/98todolist/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/98todolist/static/css/2.1fe29dfa.chunk.css"
   },
   {
-    "revision": "243672fa67ffa5228202",
+    "revision": "318a954ba83df08a0e71",
     "url": "/98todolist/static/css/main.6498cda5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/98todolist/static/js/2.cee76400.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "243672fa67ffa5228202",
-    "url": "/98todolist/static/js/main.e190b3e4.chunk.js"
+    "revision": "318a954ba83df08a0e71",
+    "url": "/98todolist/static/js/main.98b9e71c.chunk.js"
   },
   {
     "revision": "91161947a1136ff66e55",
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/98todolist/static/media/ms_sans_serif_bold.cb1c7473.woff2"
   },
   {
-    "revision": "72ab48f5ff5e5a0ce39242d618d41d9c",
-    "url": "/98todolist/static/media/windows98.72ab48f5.gif"
+    "revision": "f345decbeb098928ff3f936fccd45184",
+    "url": "/98todolist/static/media/windows98.f345decb.mp4"
   }
 ]);
