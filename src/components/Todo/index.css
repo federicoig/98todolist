@@ -11,6 +11,11 @@
     text-decoration: line-through;
 }
 
+.book-icon {
+    width: 32px;
+    height: 32px;
+}
+
 .hidden {
     display: none;
 }
